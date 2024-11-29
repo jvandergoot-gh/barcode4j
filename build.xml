@@ -5,8 +5,8 @@
   <property environment="env"/>
   
   <property name="Name" value="Barcode4J Library"/>
-  <property name="name" value="barcode4j"/>
   <property name="version" value="${barcode4j-version}"/>
+  <property name="name" value="barcode4j-${version}"/>
   <property name="impl.vendor" value="The Barcode4J Project"/>
   <property name="impl.url" value="http://barcode4j.sourceforge.net"/>
   <property name="year" value="2000-2010"/>
